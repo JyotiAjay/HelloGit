@@ -17,6 +17,7 @@ public static void main(String[] args) {
 	cd.show("PUNE");
 	System.out.println("HELLO");
 	System.out.println("World");
+	System.out.println("Hi");
 	
 }
 
